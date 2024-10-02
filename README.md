@@ -34,11 +34,11 @@ This repository contains the source code required to build and run this software
 
 <h2 name="Installation">Installation</h2>
 
-To debug and build the source code into a executable binary, Qt for open source development is available in https://www.qt.io/download-open-source . As the project has been developed in Qt version 6.6.1, this version is recommended.
+To debug and build the source code into a executable binary, Qt for open source development is available in https://www.qt.io/download-open-source . As the project has been developed in Qt version 5.15.2, this version is recommended.
 
 <h2 name="Documentation">Documentation</h2>
 
-Documentation is available [here](https://github.com/AntonioRuizR/UCO-DWM-GUI/blob/main/User%20Guide.pdf).
+Documentation is available [here](https://github.com/AntonioRuizR/UCO-SC-Commander-300/blob/main/doc/UCO-SC-300ManualES.pdf).
 
 <h2 name="LicenseContributing">License and contributing</h2>
 
