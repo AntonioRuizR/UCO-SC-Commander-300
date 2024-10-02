@@ -272,7 +272,7 @@
     <bool>true</bool>
    </property>
    <property name="plainText">
-    <string>UCO-SC Commander 300, a GUI for the data control and visualization of the ABB Commander 300 PID
+    <string>UCO - Serial Commander 300, a GUI for the data control and visualization of the ABB Commander 300 PID
 
 USEFUL HELP:
 

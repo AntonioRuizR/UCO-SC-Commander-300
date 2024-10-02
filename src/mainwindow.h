@@ -91,8 +91,6 @@ public:
 
     QCPRange previousRange;
 
-
-    //QString csv_dir ="C:/Users/Automática/Desktop";
     QString csv_dir = QStandardPaths::writableLocation(QStandardPaths::DesktopLocation);
     QString csv_save_file=QStandardPaths::writableLocation(QStandardPaths::DesktopLocation) + "/Test_300.csv";
     bool save_data=0;

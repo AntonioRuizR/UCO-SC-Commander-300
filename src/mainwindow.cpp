@@ -888,18 +888,14 @@ bool MainWindow::get_func_mode()
 // WHEN RETURN IS PRESSED AFTER INTRODUCING A CSV FILE NAME
 void MainWindow::on_lineEdit_3_returnPressed()
 {
-    //csv_save_file.clear();  // Previous chosen directory and file is unselected
+    csv_save_file.clear();  // Previous chosen directory and file is unselected
     QString filename_csv = ui->lineEdit_3->text();
-    if(filename_csv == ""){
-        if(csv_save_file != ""){
-            save_data = 1;
-            ui->groupBox_3->setTitle("Save text file: RECORDING");
-            return;
-        }
-        else{
-            QMessageBox::information(this, "Warning", tr("Specify a file name to proceed with the recording of data")); // If no name is specified, a warning window is displayed
-            return;
-        }
+    if((filename_csv == "") or (filename_csv == " ")){
+        QMessageBox::information(this, "Warning", tr("File Test_300.csv saved in chosen folder. If no folder has been specified, csv file is located in Dektop")); // If no name is specified, a warning window is displayed
+        csv_save_file.append(csv_dir + "/" + "Test_300.csv");
+        save_data = 1;
+        ui->groupBox_3->setTitle("Save text file: RECORDING");
+        return;
     }
     else{
         csv_save_file.append(csv_dir + "/" + filename_csv + ".csv");    // Complete folder route + file name is configured
