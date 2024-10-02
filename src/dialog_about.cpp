@@ -60,7 +60,7 @@ Dialog_about::Dialog_about(QWidget *parent)
     ui->label_6->setText("<a href=\"http://www.uco.es/grupos/prinia/fvazquez\">Francisco Vázquez Serrano</a>");
     ui->label_6->setOpenExternalLinks(true);
 
-    ui->label_7->setText("<a href=\"https://github.com/AntonioRuizR/UCO-SC-Commander300\">Source code avaliable in GitHub</a>");
+    ui->label_7->setText("<a href=\"https://github.com/AntonioRuizR/UCO-SC-Commander-300\">Source code avaliable in GitHub</a>");
     ui->label_7->setOpenExternalLinks(true);
 
     //ui->label->setText(tr("Application developed at the EPSC of the University of Cordoba (Spain)."));
