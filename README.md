@@ -1,5 +1,5 @@
 # UCO - Serial Commander 300
- An open source Graphical User Interface for monitoring ABB's Commander 300 Universal Process Controller
+ An open source Graphical User Interface for monitoring ABB's Commander 300 Universal Process Controller. Developed by the PRINIA research group  of the EPSC of the University of Cordoba (Spain).
 
 This repository contains the source code required to build and run this software. Also, in 'releases' section, a Windows build for 32 bits is available.
 
