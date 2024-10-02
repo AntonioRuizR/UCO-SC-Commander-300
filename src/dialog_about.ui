@@ -143,7 +143,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Application developed at the EPSC of the University of Cordoba (Spain).</string>
+    <string>Application developed by the PRINIA research group of the EPSC of the University of Cordoba (Spain).</string>
    </property>
    <property name="scaledContents">
     <bool>false</bool>
