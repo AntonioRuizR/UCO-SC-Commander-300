@@ -1,4 +1,4 @@
-# UCO-SC Commander 300
+# UCO - Serial Commander 300
  An open source Graphical User Interface for monitoring ABB's Commander 300 Universal Process Controller
 
 This repository contains the source code required to build and run this software. Also, in 'releases' section, a windows build for 64 bits is available.
