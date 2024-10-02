@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog_about</class>
+ <widget class="QDialog" name="Dialog_about">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>731</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>731</width>
+    <height>310</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>731</width>
+    <height>700</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label_logoepsc">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>120</y>
+     <width>221</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>180</y>
+     <width>161</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>131</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Juan Garrido Jurado</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>150</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>131</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Antonio Ruiz Ruiz</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>210</y>
+     <width>131</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>131</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Mario L. Ruz Ruiz</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>10</y>
+     <width>391</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Application developed at the EPSC of the University of Cordoba (Spain).</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_logouco">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>171</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>10</y>
+     <width>16</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Vertical</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>110</y>
+     <width>81</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>81</width>
+     <height>101</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>81</width>
+     <height>101</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>240</y>
+     <width>301</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>131</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Francisco Vázquez</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>290</y>
+     <width>711</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="plainText">
+    <string>UCO-SC Commander 300, a GUI for the data control and visualization of the ABB Commander 300 PID
+
+USEFUL HELP:
+
+Data is stored in csv files in the next order:
+
+- OP, PV, SP, BP, TI, TD.
+
+When the PID is set in manual mode, SP is saved as 0 in this file.
+
+-----------------------------------------------------------------------------------------------------------------
+
+    Copyright (C)   2024  University of Cordoba
+
+This program is free software: you can redistribute it and/or it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program (COPYING.txt).  If not, see https://www.gnu.org/licenses/.
+</string>
+   </property>
+   <property name="textInteractionFlags">
+    <set>Qt::NoTextInteraction</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>100</y>
+     <width>261</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Source code avaliable in GitHub</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

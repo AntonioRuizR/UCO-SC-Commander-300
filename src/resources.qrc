@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>prinia_logo.jpg</file>
+        <file>uco.png</file>
+        <file>epsc.png</file>
+        <file>icon_C300.ico</file>
+    </qresource>
+</RCC>
