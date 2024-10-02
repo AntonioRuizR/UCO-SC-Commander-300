@@ -38,7 +38,7 @@ To debug and build the source code into a executable binary, Qt for open source 
 
 <h2 name="Documentation">Documentation</h2>
 
-Documentation is available [here](https://github.com/AntonioRuizR/UCO-DWM-GUI/blob/main/User%20Guide.pdf).
+Documentation is available [here](https://github.com/AntonioRuizR/UCO-SC-Commander-300/blob/main/doc/UCO-SC-300ManualES.pdf).
 
 <h2 name="LicenseContributing">License and contributing</h2>
 
